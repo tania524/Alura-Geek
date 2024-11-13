@@ -1,0 +1,50 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Guantes de Gym para Mujer",
+      "precio": 25.000
+    },
+    {
+      "id": 2,
+      "nombre": "Rodilleras Elasticas para Gym",
+      "precio": 23.000
+    },
+    {
+      "id": 3,
+      "nombre": "Cinturon de Fuerza para Pesas",
+      "precio": 120.000
+    },
+    {
+      "id": 4,
+      "nombre": "Straps para Mejor Agarre",
+      "precio": 30.000
+    },
+    {
+      "id": 5,
+      "nombre": "Faja de Gym para Mujer",
+      "precio": 40.000
+    },
+    {
+      "id": 6,
+      "nombre": "Conjunto Deportivo de 2 Piezas Color Lila",
+      "precio": 120.000
+    },
+    {
+      "id": 7,
+      "nombre": "Tennis Deportivos",
+      "precio": 180.000
+    },
+    {
+      "id": 8,
+      "nombre": "Creatina Monohidratada",
+      "precio": 230.000
+    },
+    {
+      "id": 9,
+      "nombre": "Proteina para Mujer",
+      "precio": 200.000
+    }
+    
+  ]
+}
